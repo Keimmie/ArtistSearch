@@ -10,15 +10,15 @@ To run the program download the Group1.jar file from the repositoriy. Once the f
 # Operation
 On the inital opening of the 'Group1.jar" file you will see the following page.
 
-![](/images/Home.png)
+![](/Readimages/Home.png)
 
 Step 1.  Select the radio button of the music genre you would like to search.
 
-![](/images/HomeGenre.png)
+![](/Readimages/HomeGenre.png)
 
 Step 2.  Select the combobox to choose the name of the musical artist you would like to search.
 
-![](/images/HomeArtist.png)
+![](/Readimages/HomeArtist.png)
 
 Step 3.  Select the “Search” button after choosing a genre and artist.
 
@@ -26,7 +26,7 @@ Step 3.  Select the “Search” button after choosing a genre and artist.
 
 Step 4.  The music artist profile page will load with the artist information. Once you are ready to perform another search select “Home” to do another search.
 
-![](/images/Profile.png)
+![](/Readimages/Profile.png)
 
 
 

@@ -22,7 +22,7 @@ Step 2.  Select the combobox to choose the name of the musical artist you would 
 
 Step 3.  Select the “Search” button after choosing a genre and artist.
 
-![](/images/Search.png)
+![](/Readimages/Search.png)
 
 Step 4.  The music artist profile page will load with the artist information. Once you are ready to perform another search select “Home” to do another search.
 

@@ -3,7 +3,6 @@ import java.awt.Font;
 import java.sql.SQLException;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
-//VSCode Test 7
 public class Main extends JFrame {
     
     private static  JPanel ui = new JPanel();
